@@ -1,20 +1,22 @@
-# [Project Name] 🎯
+
+# [UNIT CONVERTER] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [CseA]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Saniya Jayan](https://github.com/saniyajayan123) - [Albertian Institute of Science and Technology]
+- Member 2: [Shifa Saheer](https://github.com/ShifaSaheer) - [Albertian Institute of Science and Technology]
+- Member 3: [Maria Hamlin](https://github.com/hamlin123) - [Albertian Institute of Science and Technology]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[Project Link](https://github.com/saniyajayan123/Think_her_hack)
 
 ### Project Description
-[2-3 lines about what your project does]
+[Program to convert one metric unit to another
+Eg: kilogram to gram, meter to kilometer, etc]
 
 ### The Problem statement
 [What ridiculous problem are you solving?]
